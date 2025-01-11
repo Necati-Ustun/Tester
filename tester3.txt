@@ -1,0 +1,1 @@
+whoami > %TEMP%\wh04m1.txt
