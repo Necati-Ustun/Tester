@@ -1,0 +1,1 @@
+Get-LocalUser > C:\Users\necat\Desktop\Success.txt
